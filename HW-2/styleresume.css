@@ -81,6 +81,10 @@ ul {
 #SkillsSize {
     font-size: 18px;
     font-style: italic;
-} 
+}
+
+#Gallery {
+    text-indent: 2.5em;
+}
 
 /* test */
