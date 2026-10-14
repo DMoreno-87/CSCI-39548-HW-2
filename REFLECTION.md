@@ -1,0 +1,5 @@
+1. Both flex-direction: row and flex-direction: column arrange items inside of a flexbox. Row arranges those items from left to right (side by side) and column arranges those items up to down, one on top of the others.
+
+2. Relative units allow for the sizes of items to respond to the default or set settings of the device or screen its being displayed in, as opposed to fixed pixels which will maintain the set size regardless. This makes relative units much more useful because it takes into consideration the various kinds of devices on the market, browsers being used, and even changed settings the user has implemented for their needs while still maintaining the readability/usability of the website.
+
+3. I did not use GenAI. I used w3schools, GeeksforGeeks, Stack Overflow, other links from websites found through Google, and a couple youtube videos to do research on how to write the CSS for certain elements and the options that some CSS elements/attributes have for manipulating the HTML.
